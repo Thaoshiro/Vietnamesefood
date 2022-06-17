@@ -94,7 +94,6 @@ border-radius:4px;
 }
 .combo>.row{
     padding: 1vw 0vw 1vw 0vw;
-    border-bottom: 1px solid #45a049;
 }
  label,legend {
      display: inline-block;
@@ -157,7 +156,10 @@ border-radius:4px;
      cursor: pointer;
      color: white;
  }
- 
+  .row{
+        padding: 1vw 0vw 1vw 0vw;
+        border-bottom: 1px solid #45a049;
+    }
 /*CONTACTUS*/
 #form .container div h2{
     margin-left: 10vw;
