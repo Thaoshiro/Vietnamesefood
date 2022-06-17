@@ -105,7 +105,10 @@ border-radius:4px;
  form, .container>form {
      padding:40px 50px;
  }
- 
+.row.comboorder{
+    border-bottom: 3px solid #4CAF50;
+}
+
  .include {
      width: 50%;
      padding-top: 0px;
